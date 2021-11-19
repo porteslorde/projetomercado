@@ -1,0 +1,11 @@
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\bin\Debug\TelaCompraProdutoEstrutura.exe.config
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\bin\Debug\TelaCompraProdutoEstrutura.exe
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\bin\Debug\TelaCompraProdutoEstrutura.pdb
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\obj\Debug\TelaCompraProdutoEstrutura.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\obj\Debug\TelaCompraProdutoEstrutura.Properties.Resources.resources
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\obj\Debug\TelaCompraProdutoEstrutura.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\obj\Debug\TelaCompraProdutoEstrutura.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\obj\Debug\TelaCompraProdutoEstrutura.exe
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\obj\Debug\TelaCompraProdutoEstrutura.pdb
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\obj\Debug\TelaCompraProdutoEstrutura.FormMercado.resources
+C:\Users\fabio\source\repos\TelaCompraProdutoEstrutura\TelaCompraProdutoEstrutura\obj\Debug\TelaCompraProdutoEstrutura.FormTelaCompra.resources
